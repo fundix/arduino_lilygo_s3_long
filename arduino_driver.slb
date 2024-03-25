@@ -11,7 +11,7 @@
     "offset_x": 0,
     "offset_y": 0,
     "rotation": 0,
-    "color_depth": "16",
+    "color_depth": "16, 16 sw",
     "lvgl_export_path": "./lib",
     "lvgl_include_path": "",
     "language": "C",
